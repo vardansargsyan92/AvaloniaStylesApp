@@ -12,6 +12,7 @@
         <entry key="AvaloniaStylesApp/AvaloniaStylesApp/Styles/StyleGuideButtons.axaml" value="AvaloniaStylesApp/AvaloniaStylesApp.Browser/AvaloniaStylesApp.Browser.csproj" />
         <entry key="AvaloniaStylesApp/AvaloniaStylesApp/Themes/ButtonThemes.axaml" value="AvaloniaStylesApp/AvaloniaStylesApp.Browser/AvaloniaStylesApp.Browser.csproj" />
         <entry key="AvaloniaStylesApp/AvaloniaStylesApp/Themes/LabelThemes.axaml" value="AvaloniaStylesApp/AvaloniaStylesApp.Browser/AvaloniaStylesApp.Browser.csproj" />
+        <entry key="AvaloniaStylesApp/AvaloniaStylesApp/Views/MainView.axaml" value="AvaloniaStylesApp/AvaloniaStylesApp.Browser/AvaloniaStylesApp.Browser.csproj" />
         <entry key="AvaloniaStylesApp/AvaloniaStylesApp/Views/MainWindow.axaml" value="AvaloniaStylesApp/AvaloniaStylesApp.Browser/AvaloniaStylesApp.Browser.csproj" />
       </map>
     </option>

@@ -8,6 +8,7 @@
 
     <ItemGroup>
         <PackageReference Include="Avalonia.iOS" Version="11.0.5" />
+        <PackageReference Include="FluentAvaloniaUI" Version="2.0.4" />
     </ItemGroup>
 
     <ItemGroup>

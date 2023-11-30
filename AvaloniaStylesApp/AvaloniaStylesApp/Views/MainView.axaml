@@ -5,6 +5,7 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:vm="clr-namespace:AvaloniaStylesApp.ViewModels"
+    xmlns:controls="clr-namespace:FluentAvalonia.UI.Controls;assembly=FluentAvalonia"
     d:DesignWidth="800"
     d:DesignHeight="450"
     x:DataType="vm:MainViewModel"
@@ -31,7 +32,7 @@
             Margin="15"
             HorizontalAlignment="Center"
             VerticalAlignment="Center" />
-        <ComboBox
+        <controls:FAComboBox
             x:Name="ThemeComboBox"
             Grid.Row="0"
             Grid.Column="1"
